@@ -87,7 +87,7 @@ while running:
             y = 75
         character.clip_draw(frame * 66, 198, 66, 66, x, y, 150, 150)
     else:
-        character.clip_draw(frame * 0, 198, 66, 66, x, y, 150, 150)
+        character.clip_draw(frame * 66, 198, 66, 66, x, y, 150, 150)
 
     update_canvas()
     handle_events()
