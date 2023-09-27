@@ -7,7 +7,6 @@ tuk_ground = load_image('TUK_GROUND.png')
 character = load_image('animation_sheet.png')
 
 
-character = load_image('animation_sheet.png')
 
 
 def handle_events():
